@@ -1,0 +1,7 @@
+{
+    "name": "osu! check",
+    "description": "Searches for osu! profile and send statistics",
+    "author": "orfolke#2137",
+    "version": "1.0",
+    "license": "MIT"
+}
